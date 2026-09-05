@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "gallaxymc.aternos.me",
+    "port": 13242,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "GUYS DO?KIZT FOR KITS!",
         "I like to play Minecraft!"
       ]
     },
